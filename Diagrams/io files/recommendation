@@ -1,1 +1,81 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T04:35:04.743Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="17.4.6" etag="_Hu9tVa6pB53CL9Ax9sV" type="github"><diagram id="L5YL7FIN_qWhtDvU4har">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-27T04:46:27.427Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="3y3X-KCk367X9ueB2Jhi" version="17.4.6" type="github">
+  <diagram id="L5YL7FIN_qWhtDvU4har" name="Page-1">
+    <mxGraphModel dx="2254" dy="1614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="brJQDPpVnoi9LzD9XKeR-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="brJQDPpVnoi9LzD9XKeR-1" target="brJQDPpVnoi9LzD9XKeR-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="brJQDPpVnoi9LzD9XKeR-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="brJQDPpVnoi9LzD9XKeR-1" target="brJQDPpVnoi9LzD9XKeR-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="brJQDPpVnoi9LzD9XKeR-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="brJQDPpVnoi9LzD9XKeR-1" target="brJQDPpVnoi9LzD9XKeR-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="598" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="brJQDPpVnoi9LzD9XKeR-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="brJQDPpVnoi9LzD9XKeR-1" target="brJQDPpVnoi9LzD9XKeR-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="brJQDPpVnoi9LzD9XKeR-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Music Recommendation System&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="80" width="198" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="brJQDPpVnoi9LzD9XKeR-2" value="FDD - Functional Decomposition Diagram" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="268" y="20" width="315" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="brJQDPpVnoi9LzD9XKeR-3" value="&lt;font style=&quot;font-size: 18px&quot;&gt;User Management (UM)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="200" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="brJQDPpVnoi9LzD9XKeR-4" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Recommendation System&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="200" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="brJQDPpVnoi9LzD9XKeR-5" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Genre Management (GM)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="518" y="200" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="brJQDPpVnoi9LzD9XKeR-6" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Music Management (MM)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="200" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="brJQDPpVnoi9LzD9XKeR-11" value="&lt;font style=&quot;font-size: 18px&quot;&gt;User Registration&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="320" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="brJQDPpVnoi9LzD9XKeR-12" value="&lt;font style=&quot;font-size: 18px&quot;&gt;User Login&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="440" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="brJQDPpVnoi9LzD9XKeR-13" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Password&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="560" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="brJQDPpVnoi9LzD9XKeR-14" value="&lt;span style=&quot;font-size: 18px&quot;&gt;User Logout&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="680" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="brJQDPpVnoi9LzD9XKeR-15" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Search User Query&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="320" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="brJQDPpVnoi9LzD9XKeR-18" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Display Recommendation&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="440" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="brJQDPpVnoi9LzD9XKeR-19" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Add Genre&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="518" y="320" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="brJQDPpVnoi9LzD9XKeR-20" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Display Genre&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="518" y="440" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="brJQDPpVnoi9LzD9XKeR-21" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Add Song&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="320" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="brJQDPpVnoi9LzD9XKeR-22" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Delete Song&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="440" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="brJQDPpVnoi9LzD9XKeR-23" value="&lt;span style=&quot;font-size: 18px&quot;&gt;View Song&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="560" width="160" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
